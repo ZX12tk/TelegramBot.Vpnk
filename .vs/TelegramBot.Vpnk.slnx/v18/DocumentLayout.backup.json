@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\alirz\\Desktop\\c#\\TelegramBot.Vpnk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{601B846C-F66C-FC33-0F30-3D768EDDDC02}|TelegramBot.Vpnk.Infrastruckcher\\TelegramBot.Vpnk.Infrastruckcher.csproj|c:\\users\\alirz\\desktop\\c#\\telegrambot.vpnk\\telegrambot.vpnk.infrastruckcher\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{601B846C-F66C-FC33-0F30-3D768EDDDC02}|TelegramBot.Vpnk.Infrastruckcher\\TelegramBot.Vpnk.Infrastruckcher.csproj|solutionrelative:telegrambot.vpnk.infrastruckcher\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{461F10CD-C952-AC0C-0A51-AB8D8DE6FF20}|TelegramBot.Vpnk.Domain\\TelegramBot.Vpnk.Domain.csproj|c:\\users\\alirz\\desktop\\c#\\telegrambot.vpnk\\telegrambot.vpnk.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{461F10CD-C952-AC0C-0A51-AB8D8DE6FF20}|TelegramBot.Vpnk.Domain\\TelegramBot.Vpnk.Domain.csproj|solutionrelative:telegrambot.vpnk.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601B846C-F66C-FC33-0F30-3D768EDDDC02}|TelegramBot.Vpnk.Infrastruckcher\\TelegramBot.Vpnk.Infrastruckcher.csproj|c:\\users\\alirz\\desktop\\c#\\telegrambot.vpnk\\telegrambot.vpnk.infrastruckcher\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601B846C-F66C-FC33-0F30-3D768EDDDC02}|TelegramBot.Vpnk.Infrastruckcher\\TelegramBot.Vpnk.Infrastruckcher.csproj|solutionrelative:telegrambot.vpnk.infrastruckcher\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37A6ED46-147D-25EF-1996-093A7BF46992}|TelegramBot.Vpnk.Common\\TelegramBot.Vpnk.Common.csproj|c:\\users\\alirz\\desktop\\c#\\telegrambot.vpnk\\telegrambot.vpnk.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,8 +105,12 @@
               "Name": "ST:2033337944:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\alirz\\Desktop\\c#\\TelegramBot.Vpnk\\TelegramBot.Vpnk.Infrastruckcher\\Class1.cs",
               "RelativeDocumentMoniker": "TelegramBot.Vpnk.Infrastruckcher\\Class1.cs",
@@ -119,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\alirz\\Desktop\\c#\\TelegramBot.Vpnk\\TelegramBot.Vpnk.Domain\\Class1.cs",
               "RelativeDocumentMoniker": "TelegramBot.Vpnk.Domain\\Class1.cs",
@@ -127,7 +131,8 @@
               "RelativeToolTip": "TelegramBot.Vpnk.Domain\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T18:55:32.312Z"
+              "WhenOpened": "2026-02-24T18:55:32.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
