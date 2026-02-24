@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TelegramBot.Vpnk.Aplication.Query\TelegramBot.Vpnk.Application.Query.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Application.Command\TelegramBot.Vpnk.Application.Command.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Common\TelegramBot.Vpnk.Common.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Domain\TelegramBot.Vpnk.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

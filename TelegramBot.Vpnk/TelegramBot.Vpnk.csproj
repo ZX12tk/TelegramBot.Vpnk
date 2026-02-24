@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TelegramBot.Vpnk.Aplication.Query\TelegramBot.Vpnk.Application.Query.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Application.Command\TelegramBot.Vpnk.Application.Command.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Common\TelegramBot.Vpnk.Common.csproj" />
+    <ProjectReference Include="..\TelegramBot.Vpnk.Domain\TelegramBot.Vpnk.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

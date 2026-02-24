@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nj1reL7/klk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alirz\\Desktop\\c#\\TelegramBot.Vpnk\\TelegramBot.Vpnk\\TelegramBot.Vpnk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alirz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\alirz\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

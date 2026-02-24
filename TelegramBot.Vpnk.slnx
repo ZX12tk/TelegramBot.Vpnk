@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="TelegramBot.Vpnk.Aplication.Query/TelegramBot.Vpnk.Application.Query.csproj" />
+  <Project Path="TelegramBot.Vpnk.Application.Command/TelegramBot.Vpnk.Application.Command.csproj" />
+  <Project Path="TelegramBot.Vpnk.Common/TelegramBot.Vpnk.Common.csproj" />
+  <Project Path="TelegramBot.Vpnk.Domain/TelegramBot.Vpnk.Domain.csproj" />
+  <Project Path="TelegramBot.Vpnk.Infrastruckcher/TelegramBot.Vpnk.Infrastruckcher.csproj" />
+  <Project Path="TelegramBot.Vpnk/TelegramBot.Vpnk.csproj" />
+</Solution>
